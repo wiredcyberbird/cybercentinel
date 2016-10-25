@@ -1,2 +1,10 @@
 # cybercentinel
-Is a project that wants improve the personal security.
+[Description about the project]
+[Install]
+-Requirements
+-Version
+-Collaborators
+[Usage]
+[Documentation]
+[License]
+[Road map]
